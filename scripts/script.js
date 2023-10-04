@@ -1,4 +1,4 @@
 /**
  * @author Alejandro Santos
- * Github repository: 
+ * Github repository: https://github.com/asantinos/web-accessibility
  */
